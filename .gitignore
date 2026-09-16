@@ -1,0 +1,11 @@
+﻿# Virtual Environment
+.venv/
+__pycache__/
+
+# Local Data Storage
+data/raw/
+data/processed/
+
+# System / OS
+.DS_Store
+.env
